@@ -1,0 +1,2 @@
+# scyzAdminNews
+scyz
